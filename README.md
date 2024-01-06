@@ -1,11 +1,11 @@
 # CLASS 11 2023-24
-This repository contains the yearbook and projects for Class 11 2023-24 (Computer Science). 
+This repository contains the yearbook and projects of Class 11 2023-24 (Computer Science). 
 By issuing a pull request to this repository, you can request to be added to the Class of 2023-24 .
 
 ## Privacy Notice 👀
 Consider that all the information that you add to this repository will be publicly available.
 
-- If you don't feel comfortable with displaying your full name, you can include a short name or nickname instead but the roll number is must.
+- If you don't feel comfortable with displaying your full name, you can include a short name or nickname instead but the roll number, class and section is must.
 
 # Add yourself to Yearbook 🏫
 
@@ -41,4 +41,5 @@ _Do not use special characters in the template above._
 
 ## Third, submit your Pull Request
 
-Go through the checklist on the pull request template to guarantee your submission is valid. The GitHub Education team will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested in the pull request comment section. 
+Go through the checklist on the pull request template to guarantee your submission is valid. 
+The `OddExtension5` will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested in the pull request comment section. 
