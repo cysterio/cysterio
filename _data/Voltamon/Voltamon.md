@@ -1,6 +1,6 @@
 ---
 name: Voltamon48
-institution: DOS Ruby Park 🚩
+institution: DPS Ruby Park 🚩
 quote: If you want to shine like the Sun, first burn like the Sun
 github_user: Voltamon
 class: 11K
