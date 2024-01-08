@@ -1,6 +1,6 @@
 ---
-name: SWARNALI SHOME # No longer than 28 characters
-institution: DPS RUBY PARK KOLKATA🚩 # no longer than 58 characters
+name: SWARNALI SHOME
+institution: DPS RUBY PARK KOLKATA🚩
 quote: When you have a dream, you've got to grab it and never let go. # no longer than 100 characters, avoid using quotes(") to guarantee the format remains the same.
 github_user: SWARNALI_13
 class: 11K
